@@ -10,7 +10,7 @@
 - 🌱 Learning more about **microservices** and **MLOps**  
 - ⚙️ Love building with **Django**, **FastAPI**, and **Dockerized environments**  
 - 💬 Ask me about **APIs, databases, and AI model integration**  
-- 📫 Reach me at: **[your.email@example.com](mailto:your.email@example.com)**  
+- 📫 Reach me at: **[shindeabhishek2025@gmail.com](mailto:shindeabhishek2025@gmail.com)**  
 
 ---
 
