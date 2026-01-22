@@ -8,7 +8,7 @@
 <!-- - 🌱 Learning **microservices architectures** and **MLOps practices** -->
 
 📫 **Email:**  [shindeabhishek2025@gmail.com](mailto:shindeabhishek2025@gmail.com)  
-🔗 **LinkedIn:**  https://www.linkedin.com/in/abhishek-shinde-366589229/ -->
+🔗 **LinkedIn:**  https://www.linkedin.com/in/abhishek-shinde-366589229/
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/abhishek-shinde-366589229/)) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shindeabhishek2025@gmail.com) -->
