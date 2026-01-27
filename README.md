@@ -4,7 +4,7 @@
 - Backend developer focused on building **scalable, production-ready systems** and **AI-powered backend applications**.
 - 🔭 Working on **AI-integrated backend platforms** and intelligent APIs  
 - ⚙️ Experienced with **Django, FastAPI, Docker**, and async processing  
-- 💬 Comfortable discussing **APIs, databases, and AI model integration**
+- 💬 Comfortable with **APIs, databases, and AI model integration**
 <!-- - 🌱 Learning **microservices architectures** and **MLOps practices** -->
 
 📫 **Email:**  [shindeabhishek2025@gmail.com](mailto:shindeabhishek2025@gmail.com)  
@@ -26,7 +26,7 @@
 
 ---
 
-### 🧱 Projects
+### 🧱 Projects (for more details click on the project name)
 
 1. #### [MindLyst.ai](https://github.com/yourusername/mindlyst.ai):- Real-time multimodal emotion recognition system that integrates speech, facial expressions, and text to assist in understanding the emotions of a user. Also built an simple Dashboard to represent the emotions detected in the form of pie charts for all of the 3 modalities.
 
