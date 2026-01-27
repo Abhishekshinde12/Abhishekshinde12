@@ -37,13 +37,15 @@
 - Deployed on Dockerized microservices  -->
 
 
-2. #### [Chat Application](https://github.com/Abhishekshinde12/Chat-App.git):- Built an Real time Chat Application where users can send messages in real time, also able to fetch previous conversation messages for user we already chatted with.
+2. #### [Conversation AI](https://github.com/yourusername/expense-tracker):- An intelligent Conversational AI system built to analyze chat conversations between a bank representative and a customer. The project uses GenAI to derive actionable insights such as sentiment, intent, and lead quality — helping banks understand customer behavior and improve engagement.
 
-<!-- **Tech Used:** Django REST Framework, PostgreSQL, JWT Auth  
+<!-- **Tech Used:** React, Django, DRF, JWT, Django Channels, Redis, LangChain, Postgres
 **Features:**
-- CRUD operations for expenses  
-- Token-based authentication  
-- Summary & category-based analytics  -->
+1. Summary - generates concise summary of conversation between customer and representative
+2. Sentiment Analysis - determine overall sentiment of user into:- positive, negative and neutral
+3. Loan Type Detection - identifies if customer mentions specific loan category
+4. Lead Type Classification - categorizes customer interest level into hot, warm or cold lead
+5. Rationale - reason behind the lead -->
 
 
 3. #### [Skin Disease Prediction](https://github.com/Abhishekshinde12/Skin-Disease-Prediction.git):- DermAI is a web application that allows users to upload an image of a skin and receive an AI-powered analysis. Here we use an EfficientNetB1 for skin disease prediction among the 10 classes on which it's trained and also added an small GenAI Integration to provide more details about the predicted disease for better and more overall understanding.
@@ -55,15 +57,13 @@
 - REST endpoints for analytics  -->
 
 
-4. #### [Conversation AI](https://github.com/yourusername/expense-tracker):- An intelligent Conversational AI system built to analyze chat conversations between a bank representative and a customer. The project uses GenAI to derive actionable insights such as sentiment, intent, and lead quality — helping banks understand customer behavior and improve engagement.
+4. #### [Chat Application](https://github.com/Abhishekshinde12/Chat-App.git):- Built an Real time Chat Application where users can send messages in real time, also able to fetch previous conversation messages for user we already chatted with.
 
-<!-- **Tech Used:** React, Django, DRF, JWT, Django Channels, Redis, LangChain, Postgres
+<!-- **Tech Used:** Django REST Framework, PostgreSQL, JWT Auth  
 **Features:**
-1. Summary - generates concise summary of conversation between customer and representative
-2. Sentiment Analysis - determine overall sentiment of user into:- positive, negative and neutral
-3. Loan Type Detection - identifies if customer mentions specific loan category
-4. Lead Type Classification - categorizes customer interest level into hot, warm or cold lead
-5. Rationale - reason behind the lead -->
+- CRUD operations for expenses  
+- Token-based authentication  
+- Summary & category-based analytics  -->
 
 
 <!-- 5. #### [Mini Multimodal Chatbot](https://github.com/Abhishekshinde12/Mini-Multimodal-Chatbot.git):- Built an chatbot -->
