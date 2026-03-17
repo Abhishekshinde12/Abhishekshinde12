@@ -30,44 +30,13 @@
 
 1. #### [MindLyst.ai](https://github.com/yourusername/mindlyst.ai):- Real-time multimodal emotion recognition system that integrates speech, facial expressions, and text to assist in understanding the emotions of a user. Also built an simple Dashboard to represent the emotions detected in the form of pie charts for all of the 3 modalities.
 
-<!-- **Tech Used:** Django, FastAPI, React, Redis, PostgreSQL, TensorFlow  
-**Features:**
-- Real-time audio-video emotion analysis  
-- Scalable architecture using Celery and WebSockets  
-- Deployed on Dockerized microservices  -->
-
-
 2. #### [Conversation AI](https://github.com/yourusername/expense-tracker):- An intelligent Conversational AI system built to analyze chat conversations between a bank representative and a customer. The project uses GenAI to derive actionable insights such as sentiment, intent, and lead quality — helping banks understand customer behavior and improve engagement.
-
-<!-- **Tech Used:** React, Django, DRF, JWT, Django Channels, Redis, LangChain, Postgres
-**Features:**
-1. Summary - generates concise summary of conversation between customer and representative
-2. Sentiment Analysis - determine overall sentiment of user into:- positive, negative and neutral
-3. Loan Type Detection - identifies if customer mentions specific loan category
-4. Lead Type Classification - categorizes customer interest level into hot, warm or cold lead
-5. Rationale - reason behind the lead -->
-
 
 3. #### [Skin Disease Prediction](https://github.com/Abhishekshinde12/Skin-Disease-Prediction.git):- DermAI is a web application that allows users to upload an image of a skin and receive an AI-powered analysis. Here we use an EfficientNetB1 for skin disease prediction among the 10 classes on which it's trained and also added an small GenAI Integration to provide more details about the predicted disease for better and more overall understanding.
 
-<!-- **Tech Used:** FastAPI, Celery, Redis, PyTorch  
-**Features:**
-- Real-time emotion detection from voice  
-- Background task processing with Celery  
-- REST endpoints for analytics  -->
+4. #### [SaaS style Multi Tenant Project Management App](https://github.com/Abhishekshinde12/Project-Management.git):- A production-ready SaaS Project Management REST API built with FastAPI — featuring multi-tenant organizations, role-based access control, JWT authentication with refresh token rotation, and full task/comment management.
 
-
-4. #### [Chat Application](https://github.com/Abhishekshinde12/Chat-App.git):- Built an Real time Chat Application where users can send messages in real time, also able to fetch previous conversation messages for user we already chatted with.
-
-<!-- **Tech Used:** Django REST Framework, PostgreSQL, JWT Auth  
-**Features:**
-- CRUD operations for expenses  
-- Token-based authentication  
-- Summary & category-based analytics  -->
-
-
-5. #### [SaaS style Multi Tenant Project Management App](https://github.com/Abhishekshinde12/Project-Management.git):- A production-ready SaaS Project Management REST API built with FastAPI — featuring multi-tenant organizations, role-based access control, JWT authentication with refresh token rotation, and full task/comment management.
-
+5. #### [Chat Application](https://github.com/Abhishekshinde12/Chat-App.git):- Built an Real time Chat Application where users can send messages in real time, also able to fetch previous conversation messages for user we already chatted with.
 ---
 
 <!-- ### 🌐 Connect with Me
