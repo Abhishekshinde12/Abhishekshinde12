@@ -18,11 +18,11 @@
 ### 🧩 Tech Stack
 
 <!-- ### Data Engineering - **SQL**, **PySpark**, **Airflow**, **DataBricks** -->
-- **Backend** - Python, Django, Django REST Framework (DRF), FastAPI, Celery, Redis, JWT
-- **Databases** - PostgreSQL, MongoDB
-- **AI/ML** - Scikit-learn, TensorFlow, NLP, LangChain <!--**Sentiment Analysis**, **Emotion Recognition** **PyTorch**-->
+- **Backend** - Python, FastAPI, Alembic, Django, Django REST Framework (DRF), Celery, JWT
+- **Databases** - PostgreSQL, Redis, MongoDB
+- **AI/ML** - Scikit-learn, TensorFlow, PyTorch, NLP, LangChain
 - **Frontend** - React, TailwindCSS
-- **DevOps & Tools** - Docker, Postman, DataBricks <!--**VS Code**, **GitHub Actions**,-->
+- **DevOps & Tools** - Docker, GIT, GitHub, Postman, DataBricks
 
 ---
 
@@ -66,13 +66,7 @@
 - Summary & category-based analytics  -->
 
 
-<!-- 5. #### [Mini Multimodal Chatbot](https://github.com/Abhishekshinde12/Mini-Multimodal-Chatbot.git):- Built an chatbot -->
-
-<!-- **Tech Used:** Django, FastAPI, React, Redis, PostgreSQL, TensorFlow  
-**Features:**
-- Real-time audio-video emotion analysis  
-- Scalable architecture using Celery and WebSockets  
-- Deployed on Dockerized microservices  -->
+5. #### [SaaS style Multi Tenant Project Management App](https://github.com/Abhishekshinde12/Project-Management.git):- A production-ready SaaS Project Management REST API built with FastAPI — featuring multi-tenant organizations, role-based access control, JWT authentication with refresh token rotation, and full task/comment management.
 
 ---
 
