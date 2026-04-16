@@ -8,6 +8,7 @@
 
 📫 **Email:**  [shindeabhishek2025@gmail.com](mailto:shindeabhishek2025@gmail.com)  
 🔗 **LinkedIn:**  https://www.linkedin.com/in/abhishek-shinde-366589229/
+
 ---
 
 ### 🧩 Tech Stack
