@@ -1,18 +1,13 @@
 # 👋 Hi, I'm Abhishek Shinde
 
 ### 🧠 About Me
-- Backend developer focused on building **scalable, production-ready systems** and **AI-powered backend applications**.
+- Backend developer focused on building **scalable, production-ready systems** and **AI-powered backend and Agentic AI applications**.
 - 🔭 Working on **AI-integrated backend platforms** and intelligent APIs  
 - ⚙️ Experienced with **Django, FastAPI, Docker**, and async processing  
 - 💬 Comfortable with **APIs, databases, and AI model integration**
-<!-- - 🌱 Learning **microservices architectures** and **MLOps practices** -->
 
 📫 **Email:**  [shindeabhishek2025@gmail.com](mailto:shindeabhishek2025@gmail.com)  
 🔗 **LinkedIn:**  https://www.linkedin.com/in/abhishek-shinde-366589229/
-
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/abhishek-shinde-366589229/)) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shindeabhishek2025@gmail.com) -->
-
 ---
 
 ### 🧩 Tech Stack
@@ -20,7 +15,8 @@
 <!-- ### Data Engineering - **SQL**, **PySpark**, **Airflow**, **DataBricks** -->
 - **Backend** - Python, FastAPI, Alembic, Django, Django REST Framework (DRF), Celery, JWT
 - **Databases** - PostgreSQL, Redis, MongoDB
-- **AI/ML** - Scikit-learn, TensorFlow, PyTorch, NLP, LangChain
+- **AI/ML** - Scikit-learn, TensorFlow, PyTorch, NLP, CNN, LSTM, Transformers
+- **GenAI & Agentic AI** - LangChain, LangGraph, RAG, Crewai, AutoGen, OpenAI Agents SDK, MCP
 - **Frontend** - React, TailwindCSS
 - **DevOps & Tools** - Docker, GIT, GitHub, Postman, DataBricks
 
@@ -38,7 +34,3 @@
 
 5. #### [Chat Application](https://github.com/Abhishekshinde12/Chat-App.git):- Built an Real time Chat Application where users can send messages in real time, also able to fetch previous conversation messages for user we already chatted with.
 ---
-
-<!-- ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/abhishek-shinde-366589229/)) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shindeabhishek2025@gmail.com) -->
